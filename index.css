@@ -1,0 +1,22 @@
+body {
+    background-color: powderblue;
+
+}
+
+
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: bisque;
+    font-size: 20pt;
+
+}
+
+p {
+    font-style: initial;
+    font-size: 15pt;
+}
+
+img {
+    width: 50%;
+    
+}
